@@ -2,7 +2,7 @@
 A comprehensive repository of my solutions to algorithmic challenges, focused on mastering efficient data structures and optimal time complexity for technical interviews.
 
 ## 🎯 Objective
-This repository serves as a centralized hub for my progress in Competitive Programming and Technical Interview Preparation. My goal is to implement clean, optimized, and well-documented solutions in Java.
+This repository serves as a centralized hub for my progress in DSA and Technical Interview Preparation. My goal is to implement clean, optimized, and well-documented solutions in Java.
 
 ## 🏗️ Repository Structure
 Problems are sorted into folders by core concepts example binary search, graphs, dynamic-programming
